@@ -7,7 +7,7 @@ python3, pytorch, huggingface's transformer library, bitsandbytes
 
 ## Getting Started
 
-1. **Download the Model**: [Model Download Link](link)
+1. **Download the Model**: [Model Download Link](https://drive.google.com/file/d/1b96A3gxeoZZXish-Ct58qwRLplJhAOMd/view?usp=sharing)
    - Download the model and place it in the project directory alongside the scripts.
 
 2. **Running Inference**
